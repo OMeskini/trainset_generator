@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ff9087-2197-4c2d-8ca4-a7ea0e19901e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trainset_generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_augmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642260-FGvLKba-1000-86c55535b5-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/17643160-21-1000-784634cd39-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (3rd copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (4th copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (5th copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (6th copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (7th copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (another copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n (copy).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/25289666_2028394787409168_659577766860474312_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/Vos-photos-pour-la-Terre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/car-stock-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/cristina-mittermeier-polar-bear-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/drew-angerer-texas-storm-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/ed-jones-north-korea-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/marcus-yam-thomas-fire-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/red-car-stock-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mask_path/tall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642260-FGvLKba-1000-86c55535b5-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642810-tumblr_neiprhtDvm1riijaro1_1280-1000-f4a16d267a-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17642910-barn-in-valldal-norway-1000-7a8364cdaf-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/17643160-21-1000-784634cd39-1512719983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/25289666_2028394787409168_659577766860474312_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/Vos-photos-pour-la-Terre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/car-stock-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/cristina-mittermeier-polar-bear-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/drew-angerer-texas-storm-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/ed-jones-north-korea-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017 (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/marcus-yam-thomas-fire-top-100-photos-2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/red-car-stock-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (3rd copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (4th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (5th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (6th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (7th copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (another copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall (copy).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_path/tall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="img_augmentation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_generator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/img_augmentation.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/data_generator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trainset_generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainset_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ff9087-2197-4c2d-8ca4-a7ea0e19901e" name="Default" comment="" />
+      <created>1527860123302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527860123302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49849397" visible="true" weight="0.24980783" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.50150603" side_tool="true" weight="0.24980783" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
